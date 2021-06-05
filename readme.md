@@ -1,5 +1,6 @@
 # Github pages src
 
+Source code for my [github pages website](https://radicalteapot.github.io/)
 Built using [Hugo](https://gohugo.io/) with the [hugo whisper theme](https://github.com/zerostaticthemes/hugo-whisper-theme).
 
 ## How to build
