@@ -1,0 +1,35 @@
+baseURL = "https://radicalteapot.github.io"
+languageCode = "en-us"
+title = "RadicalTeapot's Notes"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 2
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/notes/'
+  homepage_button_text = 'To the notes'
+  homepage_intro = 'Personal collection of notes, links and things worthy of being archived about pretty-much everything.'
+  # homepage_image = '/images/terminal.gif'
+
+  ## You can enable to add anchor links to header elements
+  enable_anchor_link = true
+
+  favicon = "images/favicon.ico"
+
+  [params.logo]
+      mobile = "/images/logo.png"
+      standard  = "/images/logo.png"
