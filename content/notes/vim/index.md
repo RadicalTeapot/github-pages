@@ -85,3 +85,24 @@ Uppercase marks are bound to files (lets you jump between files)
 | \`\`       | Jump back to position where jumped from  |
 | \`[ or ]\` | Beginning / End of last change / yank    |
 | \`< or >\` | Beginning / End of last visual selection |
+
+## Misc
+
+### Copy all lines containing a match to a register
+
+Copy all lines containing `pattern` to `register` (replace by the register letter you want to use).
+
+```vim
+qregisterq
+:g/pattern/y REGISTER
+```
+
+The first line clears the register.
+
+The register letter has to be capitalized in the second line to append to it instead of replacing its content.
+
+Optionally paste the register content
+
+```vim
+"registerp
+```
