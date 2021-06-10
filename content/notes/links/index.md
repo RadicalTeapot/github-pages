@@ -57,7 +57,6 @@ summary: "Collection of links to all sorts of content"
 - [Boost Your Coding Fu With VSCode and Vim - Cheatsheet | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet)
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
 - [Using buffers, windows, and tabs efficiently in Vim - DEV](https://dev.to/iggredible/using-buffers-windows-and-tabs-efficiently-in-vim-56jc)
-- [Org-mode Cheat Sheet - Simple Cheat Sheet | simplecheatsheet.com](https://simplecheatsheet.com/tag/org-mode-cheat-sheet/)
 - [Vim Regular Expressions 101](http://www.vimregex.com/)
 - [Cheatsheet for Buffers, Windows and Tabs of Vim | feici02’s tidbits](https://feici02.github.io/2017/05/28/buffers-windows-tabs.html)
 
@@ -68,6 +67,7 @@ summary: "Collection of links to all sorts of content"
 - [An Agenda for Life With Org Mode - The Chronicle](https://blog.aaronbieber.com/2016/09/24/an-agenda-for-life-with-org-mode.html)
 - [Dig Into Org Mode - The Chronicle](https://blog.aaronbieber.com/2016/01/30/dig-into-org-mode.html)
 - [Org Mode - Organize Your Life In Plain Text!](http://doc.norang.ca/org-mode.html)
+- [Org-mode Cheat Sheet - Simple Cheat Sheet | simplecheatsheet.com](https://simplecheatsheet.com/tag/org-mode-cheat-sheet/)
 
 ## Linux
 
@@ -91,9 +91,9 @@ summary: "Collection of links to all sorts of content"
 - [chenzlabs/aframe-ar: Basic A-Frame support for browser-based augmented reality (AR), supporting the new WebXR AR support in Chrome v81+ as well as WebXR Viewer.](https://github.com/chenzlabs/aframe-ar)
 - [Web-Powered Augmented Reality: a Hands-On Tutorial - Uri Shaked - Medium](https://medium.com/@urish/web-powered-augmented-reality-a-hands-on-tutorial-9e6a882e323e)
 - [WebXR Emulator Extension AR support](https://blog.mozvr.com/webxr-emulator-extension-ar-support/)
-- [What&#39;s new in ECSY v0.4 and ECSY-THREE v0.1](https://blog.mozvr.com/whats-new-in-ecsy-and-ecsy-three/)
 - [ThreeJS Intermediate Skill Tutorials](https://blog.mozvr.com/threejs-intermediate-skill-tutorials/)
 - [Introduction to WebXR - Babylon.js Documentation](https://doc.babylonjs.com/how_to/introduction_to_webxr)
+- [index.html – whimsical-ink-occupation](https://glitch.com/edit/#!/whimsical-ink-occupation?path=index.html:18:7)
 
 ##### AR.js
 
@@ -134,6 +134,11 @@ summary: "Collection of links to all sorts of content"
 - [JavaScript Systems Music](https://teropa.info/blog/2016/07/28/javascript-systems-music.html)
 - [Additive Synthesis And the Harmonic Series (Learn Web Audio from the Ground Up, Part 4)](https://teropa.info/blog/2016/09/20/additive-synthesis.html)
 - [Synth Envelopes 101: Attack, Decay, Sustain, Release (ADSR)](https://theproaudiofiles.com/synthesis-101-envelope-parameters-uses/)
+- [Web Audio API](https://webaudioapi.com/book/Web_Audio_API_Boris_Smus_html/toc.html)
+- [A Tale of Two Clocks - Scheduling Web Audio with Precision - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/audio/scheduling/)
+- [javascript - Webaudio oscillator stop() callback - Stack Overflow](https://stackoverflow.com/questions/32846335/webaudio-oscillator-stop-callback)
+- [Advanced techniques: Creating and sequencing audio - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques)
+- [Example and tutorial: Simple synth keyboard - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Simple_synth)
 
 #### Misc
 
@@ -149,10 +154,14 @@ summary: "Collection of links to all sorts of content"
 - [Class Composition in JavaScript ← Alligator.io](https://alligator.io/js/class-composition/#:~:text=A%20common%20composition%20pattern%20in,have%20an%20Animal%20and%20FlyingAnimal%20.)
 - [Improving HTML5 Canvas Performance - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/canvas/performance/#toc-pre-render)
 - [How to build a racing game - straight roads | Code inComplete](https://codeincomplete.com/articles/javascript-racer-v1-straight/)
+- [Maxime Euzière](https://xem.github.io/articles/webgl-guide)
+- [JavaScript ES2015 Classes and Prototype Inheritance (Part 1 of 2) - Accelebrate](https://www.accelebrate.com/blog/javascript-es6-classes-and-prototype-inheritance-part-1-of-2/)
 
 ### Typescript
 
 - [How to create your own TypeScript type definition files (.d.ts) and contribute to DefinitelyTyped on GitHub](http://blog.wolksoftware.com/contributing-to-definitelytyped)
+- [Typescript inheritance deep dive 🐋 | Hacker Noon](https://hackernoon.com/typescript-inheritance-deep-dive-9a53989af5a6)
+- [Building a React app with Parcel, Typescript, SASS, and ESLint - Because Developers are Awesome](https://adrianhall.github.io/javascript/react/2020/03/29/parcel-typescript-react/)
 
 ## Dev
 
@@ -164,10 +173,15 @@ summary: "Collection of links to all sorts of content"
 - [Why I spent almost a year building an RPG game for a fantasy console | by Bruno Oliveira | Medium](https://medium.com/@btco_code/why-i-spent-almost-a-year-building-an-rpg-game-for-a-fantasy-console-2bbe2e1d8cb8)
 - [code/PRNGs.md at master · bryc/code](https://github.com/bryc/code/blob/master/jshash/PRNGs.md)
 - [s-macke/VoxelSpace: Terrain rendering algorithm in less than 20 lines of code](https://github.com/s-macke/VoxelSpace)
+- [Implementing Racing Games: An intro to different approaches and their game design trade-offs | Superheroes in Racecars](https://superheroesinracecars.com/2016/08/11/implementing-racing-games-an-intro-to-different-approaches-and-their-game-design-trade-offs/)
 - [opengl - Render in a imGui Window - Game Development Stack Exchange](https://gamedev.stackexchange.com/questions/150214/render-in-a-imgui-window)
 - [Image Loading and Displaying Examples · ocornut/imgui Wiki](https://github.com/ocornut/imgui/wiki/Image-Loading-and-Displaying-Examples#Example-for-DirectX11-users)
 - [A complete example using Veldrid.ImGui](https://gist.github.com/mellinoe/5eca1a109a71566f620a05fcb70e74ca)
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
+- [Memoize!!! 💾 - a react (native) performance guide](https://gist.github.com/mrousavy/0de7486814c655de8a110df5cef74ddc)
+- [Create mega drive games](https://www.ohsat.com/tutorial/)
+- [Get to Know Gatsby Building Blocks | Gatsby](https://www.gatsbyjs.com/docs/tutorial/part-one/)
+- [Breaking Through Your Refactoring Rut - The Code Whisperer](https://blog.thecodewhisperer.com/permalink/breaking-through-your-refactoring-rut)
 
 ## GPU
 
@@ -202,9 +216,40 @@ summary: "Collection of links to all sorts of content"
 - [Easing Functions Cheat Sheet](https://easings.net/)
 - [FPS80 Projection Math Derivation - Google Docs](https://docs.google.com/document/d/1vQCBb8IgCPmwFCQFs-koKrwUiJ6c95CW_0MCfyQtf5U/edit#heading=h.kb6ccmwe8j65)
 
+## Music
+
+- [Cubeleco: po-33 k.o! Hidden Features and Extended Manual](https://cubeleco.blogspot.com/2019/05/po-33-ko-hidden-features.html#more)
+- [260-drum-machine-patterns.pdf](https://tallerdemusicaelectronica.files.wordpress.com/2016/05/260-drum-machine-patterns.pdf)
+- [Pocket Operator scales](https://i.pinimg.com/originals/eb/24/0f/eb240fae3d898d3de6608f266182df7b.jpg)
+- [Teenage Engineering Pocket Operators Cheat Sheet by Naenyn - Cheatography.com](https://cheatography.com//naenyn/cheat-sheets/teenage-engineering-pocket-operators/pdf/)
+- [Dan’s Music Theory 101 Cheat Sheet](https://www.rkstar.com/links/musictheory.pdf)
+- [kolib - create your po33 kits with ease](https://kolib.app/)
+- [Sync PO-20 Arcade Pocket Operator to Ableton - YouTube](https://www.youtube.com/watch?v=bDQ6CaWS13Q)
+- [We are Pocket Operators](https://www.reddit.com/r/pocketoperators/)
+- [Music Theory: The Basics You Need to Make Better Music | LANDR Blog](https://blog.landr.com/music-theory/)
+- [Modes Explained: How to Use The 7 Modal Scales | LANDR Blog](https://blog.landr.com/music-modes/)
+- [Get started | Learning Music (Beta)](https://learningmusic.ableton.com/index.html)
+- [Making Music](https://cdn-resources.ableton.com/resources/uploads/makingmusic/MakingMusic_DennisDeSantis.pdf)
+- [Chord Function: Music Theory Fundamentals • Jazzadvice](https://www.jazzadvice.com/chord-function/)
+- [Scales and emotions | The Ethan Hein Blog](http://www.ethanhein.com/wp/2010/scales-and-emotions/)
+- [Mutable Instruments | Kinks](https://mutable-instruments.net/modules/kinks/manual/)
+- [Mutable Instruments | Marbles](https://mutable-instruments.net/modules/marbles/manual/)
+- [Mutable Instruments | Blinds](https://mutable-instruments.net/modules/blinds/manual/)
+- [Mutable Instruments | Tides](https://mutable-instruments.net/modules/tides/manual/)
+- [Mutable Instruments | Plaits](https://mutable-instruments.net/modules/plaits/manual/)
+- [Mutable Instruments | Rings](https://mutable-instruments.net/modules/rings/manual/)
+- [Mutable Instruments | Stages](https://mutable-instruments.net/modules/stages/manual/)
+- [Mutable Instruments | Beads](https://mutable-instruments.net/modules/beads/manual/)
+- [tain-Manual-A5.pdf](https://www.instruomodular.com/wp-content/uploads/2020/09/tain-Manual-A5.pdf)
+- [Ochd-Manual-A5.pdf](https://www.instruomodular.com/wp-content/uploads/2020/05/Ochd-Manual-A5.pdf)
+- [saïch-Manual.pdf](https://www.instruomodular.com/wp-content/uploads/2020/10/sai%CC%88ch-Manual.pdf)
+
 ## Other
 
 - [JavaScript-mancy Pixel Art: How To Make Pixel Art Like In JavaScript-mancy | Barbarian Meets Coding](https://www.barbarianmeetscoding.com/blog/2017/09/23/javascript-mancy-pixel-art-how-to-make-pixel-art-like-in-javascript-mancy)
 - [Nerd Fonts - Iconic font aggregator, glyphs/icons collection, &amp; fonts patcher](https://www.nerdfonts.com/#home)
 - [DAILY MINIMAL: Archive](https://www.dailyminimal.com/archive)
 - [Typing practice](https://www.keybr.com/)
+- [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
+- [Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/#home)
+- [X-ray computed tomography | Nature Reviews Methods Primers](https://www.nature.com/articles/s43586-021-00015-4.epdf?sharing_token=Qdp3Lrr2XW6BGj-QNubsOtRgN0jAjWel9jnR3ZoTv0OBTlQhroTeRJ7mDfcs7XZN5sH2-rhsD3Y8WRw_zDjQXKGkJsuqQJZ78EWtXweDA4laKsmfJ4K6RobSdisFk_-K1BX1IwasJbtyzWqb6c3SXNx63NMephBf9cr3v-GdxQ8%3D)
